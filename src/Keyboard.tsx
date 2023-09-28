@@ -48,7 +48,7 @@ export function Keyboard({
   disabled = false,
   inactiveLetters,
   addGuessedLetter,
-}): KeyboardProps {
+}: KeyboardProps) {
   return (
     <div
       style={{
